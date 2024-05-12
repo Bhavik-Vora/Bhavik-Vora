@@ -18,7 +18,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 
 ## 🙋‍♂️ About Me
-<a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a>
+<a><img align="right" src="MyLCGoldBedge.gif" width="450" height="240" /></a>
 -  <b> Passionate Full-Stack Developer proficient in Express, Node.js, MySQL, MongoDB, React.js, Redux, Git, Bootstrap, and Tailwind CSS.</b>
 - 📘 I’m Currently Working **On Projects**
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
