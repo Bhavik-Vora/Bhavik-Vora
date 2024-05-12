@@ -1,4 +1,3 @@
-<img src="lkbn.png">                     
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Bhavik Vora</b></h1>
 <h2 align="center"><b>Emerging Full-Stack Developer | Proficient in Express, Node.js, MySQL, MongoDB, React.js, Redux | Knowledgeable in Git, Bootstrap, Tailwind CSS| 🚀</b></h2> 
@@ -6,7 +5,7 @@
 
 <p align="center">
     
- <a href="https://github.com/Bhavik-Vora/" target="_blank">
+ <a href="https://www.linkedin.com/in/vorabhavik/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Bhavik"/>
  </a>
  <a href="https://github.com/Bhavik-Vora/" target="_blank">
