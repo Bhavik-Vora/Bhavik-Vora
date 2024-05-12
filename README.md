@@ -85,4 +85,4 @@
 <a href="https://github.com/Bhavik-Vora/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Bhavik-Vora">
 </a>
-<a href="https://github.com/Bhavik-Vora?tab=followers"><img src="https://img.shields.io/github/followers/PrinceSinghhub?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Bhavik-Vora?tab=followers"><img src="https://img.shields.io/github/followers/Bhavik-Vora?label=Followers&style=social" alt="GitHub Badge"></a>
