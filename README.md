@@ -73,7 +73,8 @@
 </p>
 
 
-[![Bhavik Vora GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bhavik-Vora&theme=github-compact)](https://github.com/Bhavik-Vora/github-readme-activity-graph)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavik-Vora&" alt="bhavikvora07" /></p>
+
 
 ## 📧 Connect with me:
 <p align="left">
