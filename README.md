@@ -43,7 +43,7 @@
 
 <br>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavik-Vora&theme=react" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bhavik-Vora&theme=algolia" alt="GitHub Streak" /></a>
  
 ## 📊 My Github Stats
 
