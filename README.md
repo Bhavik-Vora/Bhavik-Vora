@@ -43,7 +43,7 @@
 
 <br>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bhavik-Vora&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Bhavik-Vora&theme=shadow-purple" alt="GitHub Streak" /></a>
  
 ## 📊 My Github Stats
 
