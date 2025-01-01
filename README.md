@@ -13,8 +13,6 @@
  </a>
 </p>
 
-   
-
 <!-- <img align="right" alt="Coding" width="400" src="bn.gif"> -->
 
 ## 🙋‍♂️ About Me
